@@ -1,16 +1,21 @@
-## Hi there 👋
+# I'm m1sea
 
-<!--
-**m1sea/m1sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wlcm to GitHub profile.
 
-Here are some ideas to get you started:
+##  About Me
+-  it's me yeah right
+-  Hungry  
+- Interested in food  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python | JavaScript | C++  
+- Tools: Arduino | GitHub | VS Code  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1sea&show_icons=true&theme=radical)
+
+## Connect with Me
+- Email: mlsea@proton.me  
+---
+
+⭐ TY for visiting !
