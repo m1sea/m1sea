@@ -3,7 +3,6 @@
 -  Hungry  
 - Interested in food  
 
-## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
