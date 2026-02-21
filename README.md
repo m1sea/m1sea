@@ -27,7 +27,7 @@
 ---
 
 ## 💬 Random Quote
-![Монгол эшлэлүүд](https://quotes704.vercel.app/?type=horizontal&theme=dark&border=false)
+![Монгол эшлэлүүд](https://quotes704.vercel.app/?type=horizontal&border=false)
 ---
 
 ## 📫 Connect with Me
