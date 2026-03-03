@@ -1,5 +1,4 @@
-# Hi, I'm M1Sea ![Profile views](https://komarev.com/ghpvc/?username=m1sea&label=Profile%20views&color=0e75b6&style=flat)  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m1sea)]
-
+# Hi, I'm M1Sea ![Profile views](https://komarev.com/ghpvc/?username=m1sea&label=Profile%20views&color=0e75b6&style=flat) 
 > "Always building something."
 
 ## Ab-Me
